@@ -55,3 +55,7 @@ async function handleRequest(request: Request) {
   });
 ```
  the code will all files in this directory and put needed headers for deno to fetch and stor this code
+ 
+ ## why host js/ts code in deno deploy ?
+ 
+ for personal usage, especialy configyration writen in ts
